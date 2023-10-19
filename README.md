@@ -1,2 +1,10 @@
- Socialz-Simple social media app that allows users to post interesting events that happened in their lives.
- Implemented features like Google Authentication, pagination, search and filtering capabilities, comments using NodeJS, ReactJS, MongoDB. 
+# Socialz
+![Socialz](Preview.png)
+### Simple social media app that allows users to post interesting events that happened in their lives.
+## Implemented features 
+>* ReactJS
+>* MongoDB
+>* Google Authentication
+>* Pagination
+>* Search and filtering capabilities
+>* Comments using NodeJS
